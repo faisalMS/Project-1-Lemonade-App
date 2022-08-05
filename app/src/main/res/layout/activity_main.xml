@@ -6,7 +6,8 @@
     android:id="@+id/constraint_Layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/black">
 
     <TextView
         android:id="@+id/text_action"
@@ -14,6 +15,7 @@
         android:layout_height="wrap_content"
         android:text="@string/lemon_select"
         android:textSize="18sp"
+        android:textColor="@color/white"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
