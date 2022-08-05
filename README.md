@@ -40,3 +40,10 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+
+# Images
+<img width="367" alt="Screen Shot 1444-01-07 at 2 35 38 PM" src="https://user-images.githubusercontent.com/83320125/183074239-480ccdb0-c8e5-4a68-8fef-a61f16fc5dfc.png">
+<img width="362" alt="Screen Shot 1444-01-07 at 2 36 04 PM" src="https://user-images.githubusercontent.com/83320125/183074317-254ab2a6-fe0c-43a4-a72f-217497c2fac0.png">
+<img width="385" alt="Screen Shot 1444-01-07 at 2 36 24 PM" src="https://user-images.githubusercontent.com/83320125/183074553-b2d47738-6d6b-4183-85c4-ddb0c4d8e618.png">
+<img width="350" alt="Screen Shot 1444-01-07 at 2 36 45 PM" src="https://user-images.githubusercontent.com/83320125/183074573-24cc6aef-1b47-4bea-a848-55e21fe7febd.png">
